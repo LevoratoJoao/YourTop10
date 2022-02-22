@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+}
+
+h1 {
+    color: #4f57c8;
+    text-align: center;
+    font-size: 80px;
+    margin-bottom: 0;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+}
+.initial-page {
+    padding: 0px 450px 10px;
+    position: relative;
+}
+
+a {
+    color: #4f57c8;
+    -webkit-text-stroke-width: 0.10px;
+    -webkit-text-stroke-color: black;
+}
+
+#cabecalho {
+    background-color: rgb(208, 236, 255);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+#table-title {
+    background-color: #4f57c8;
+    text-align: center; 
+    font-size: 20px;
+}
+
+#options {
+    font-size: 20px;
+}
+
+#rank {
+    width: 20px;
+}
+#name {
+    width: 200px;
+}
+#Aired {
+    width: 50px;
+}
+#your-score {
+    width: 50px;
+}
+#tabela {
+    width: 100%;
+    border: "0";
+    text-align: center;
+    background-color: rgb(208, 236, 255);
+}
